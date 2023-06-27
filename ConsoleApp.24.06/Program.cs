@@ -2,3 +2,6 @@
 var name = Console.ReadLine();
 Console.WriteLine($"Привет {name}");
 
+Console.WriteLine($"Привет {name}");
+
+Console.WriteLine($"Привет {name}");
